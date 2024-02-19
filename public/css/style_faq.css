@@ -1,0 +1,17 @@
+.main {
+    background: linear-gradient(#000, #000),
+    url('../images/background.jpg') center/cover;
+    background-blend-mode: color;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.home_page_container{
+    flex: 1;
+    padding: 50px;
+    height: 500px;
+    width: 1000px;
+    background-color: #718096;
+    border-radius: 15%;
+}
+
